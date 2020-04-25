@@ -1,2 +1,2 @@
 import msdennigTST.py
-print ("Test")
+print ("Test second version")
